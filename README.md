@@ -6,7 +6,7 @@
 
 <img align="right" alt="Code Boy" src="codeboy.png"  width="300px"/>
 
-## Meu Nome é Rodrigo Chisté
+## Resumo Profissional
 (React JS | Angular | JS | HTML | CSS | Typescript | PHP | MySQL | WordPress | Design | PS) 🚀
 - Analista e Desenvolvedor @[rodrigodil](https://rodrigodil.github.io/perfil/)
 - Tecnologia Educacional

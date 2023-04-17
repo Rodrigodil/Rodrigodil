@@ -13,4 +13,4 @@
 - Web Design
 - Atualizando Aguarde ✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Rodrigodil=anuraghazra&hide_progress=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigodil&hide_progress=true)](https://rodrigodil.github.io/perfil/)

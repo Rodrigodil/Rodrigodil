@@ -16,4 +16,4 @@
 - Analista de TI ✨
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigodil&hide_progress=true)](https://rodrigodil.github.io/perfil/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigodil&layout=compact)](https://rodrigodil.github.io/perfil/)

@@ -9,7 +9,7 @@
 
 
 ## Resumo Profissional
-(Python | Cloud | Docker | Git| PHP | REST APIs| NodeJS | CodeIgniter | ReactJS | Laravel | Angular | JS | CSS | MySQL e SQL) 🚀
+(Python | Flutter | Cloud | Docker | Git | PHP | REST APIs| NodeJS | CodeIgniter | ReactJS | Laravel | Angular | Dart | JS | CSS | MySQL e SQL) 🚀
 - Analista de Sistemas ✨
 - DevOps ✨
 - Desenvolvedor Full Stack ✨

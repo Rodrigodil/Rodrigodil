@@ -9,7 +9,7 @@
 
 
 ## Resumo Profissional
-(Python | Flutter | Cloud | Docker | Git | PHP | REST APIs| NodeJS | CodeIgniter | ReactJS | Laravel | Angular | Dart | JS | CSS | MySQL e SQL) 🚀
+(Python | Flutter | Cloud | Docker | Git | PHP | REST APIs | NodeJS | CodeIgniter | ReactJS | Laravel | Angular | Dart | JS | CSS | MySQL e SQL) 🚀
 
 <img align="right" alt="Code Boy" src="https://raw.githubusercontent.com/Rodrigodil/Rodrigodil/main/codeboy.png"  width="250px"/>
 
